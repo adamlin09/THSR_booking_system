@@ -3,8 +3,6 @@ from selenium.webdriver.support.ui import Select
 from enum import Enum
 import time
 import os
-import urllib.request
-import requests
 from PIL import Image
 import cv2
 import matplotlib.pyplot as plt
