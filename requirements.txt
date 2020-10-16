@@ -1,0 +1,7 @@
+selenium
+numpy
+matplotlib
+openCV
+pillow
+keras
+scikit-learn
